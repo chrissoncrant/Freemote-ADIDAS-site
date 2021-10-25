@@ -160,13 +160,14 @@ form {
             width: 1440px;
             height: 800px;
             margin: auto;
+            margin-top: 50px;
             /* border: 1px solid black; */
             display: flex;
             background-image: url(https://assets.codepen.io/6060109/destop-bg.png);
             background-size: 100%;
             background-position: cover;
             padding-left: 156px;
-            padding-top: 49px;
+
     }
     
     .hero-img-mobile {
@@ -185,6 +186,7 @@ form {
     .inner-content-container {
         width: 40%;
         height: 100%;
+        margin-top: 25px;
         /* border: 1px solid black; */
     }
 
