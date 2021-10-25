@@ -193,11 +193,14 @@ form {
     .hero-text {
         text-align: left;
         margin-top: 144px;
+        
     }
 
     .hero-text h1 {
         text-align: left;
         margin: 0;
+        font-size: 64px;
+        line-height: 71px;
     }
 
     .desktop-hero-img-container {
